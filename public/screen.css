@@ -6,3 +6,7 @@ body {
 .hello-world {
   font-style: italic;
 }
+
+.goodbye-world {
+  color: darkred;
+}
